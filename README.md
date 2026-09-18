@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://nettydev.nullysh.com/"><img src="https://img.shields.io/badge/portfolio-live-22C55E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio online" /></a>
   <a href="https://github.com/netty-linux"><img src="https://img.shields.io/github/followers/netty-linux?style=for-the-badge&label=followers&color=38BDF8" alt="GitHub followers" /></a>
-  <a href="https://github.com/netty-linux?tab=repositories"><img src="https://img.shields.io/github/stars/netty-linux?style=for-the-badge&label=stars&color=F59E0B" alt="GitHub stars" /></a>
+  <a href="https://github.com/netty-linux?tab=repositories"><img src="https://img.shields.io/github/stars/netty-linux/portfolio?style=for-the-badge&label=portfolio%20stars&color=F59E0B" alt="GitHub stars" /></a>
   <img src="https://img.shields.io/badge/Arch%20Linux-native-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
 </div>
 
