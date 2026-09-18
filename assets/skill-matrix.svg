@@ -1,33 +1,20 @@
-<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Netty Skill Matrix</title>
-  <desc id="desc">Mapa visual de foco técnico e criativo em estilo isométrico futurista.</desc>
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Skill matrix monochrome</title>
+  <desc id="desc">Matriz de competências em preto, branco e tons de xerox.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#09111A"/><stop offset="1" stop-color="#171329"/></linearGradient>
-    <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#0284C7"/></linearGradient>
-    <linearGradient id="purple" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#C4B5FD"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
-    <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FDBA74"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
-    <linearGradient id="green" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#86EFAC"/><stop offset="1" stop-color="#059669"/></linearGradient>
-    <linearGradient id="pink" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F9A8D4"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#fff" stroke-opacity="0.045"/></pattern>
+    <pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.9" fill="#fff" fill-opacity="0.18"/><circle cx="7" cy="6" r="0.6" fill="#fff" fill-opacity="0.12"/></pattern>
   </defs>
-  <rect width="1200" height="520" rx="24" fill="url(#bg)"/><rect width="1200" height="520" rx="24" fill="url(#grid)"/>
-  <text x="54" y="66" fill="#F8FAFC" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="26" font-weight="800">SKILL MATRIX</text><text x="54" y="94" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">self-reported focus map / no fake certifications</text>
-  <path d="M90 410L600 165L1110 410L600 500L90 410Z" fill="#020617" fill-opacity="0.5" stroke="#94A3B8" stroke-opacity="0.18"/>
-  <path d="M600 165V500M90 410L1110 410M345 287L855 287" stroke="#94A3B8" stroke-opacity="0.16" stroke-dasharray="6 8"/>
-  <g opacity="0.95">
-    <path d="M600 197L682 236L600 276L518 236L600 197Z" fill="#082F49" stroke="#67E8F9" stroke-opacity="0.55"/><path d="M518 236V333L600 374V276L518 236Z" fill="#0E7490" fill-opacity="0.58"/><path d="M600 276L682 236V333L600 374V276Z" fill="#0369A1" fill-opacity="0.72"/>
-    <text x="600" y="234" text-anchor="middle" fill="#E0F2FE" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="16" font-weight="800">SOFTWARE</text><text x="600" y="255" text-anchor="middle" fill="#BAE6FD" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">Ruby · Rust · Python · TS · C/C++</text>
+  <rect width="1200" height="500" rx="4" fill="#050505"/><rect width="1200" height="500" rx="4" fill="url(#grain)"/>
+  <text x="54" y="64" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="900" letter-spacing="1">SKILL MATRIX</text>
+  <text x="54" y="90" fill="#8c8c8c" font-family="Courier New,monospace" font-size="13">AUTO DECLARADO / SEM CERTIFICAÇÃO INVENTADA</text>
+  <path d="M54 116H1146" stroke="#fff" stroke-opacity="0.35"/>
+
+  <g font-family="Courier New,monospace">
+    <text x="54" y="154" fill="#fff" font-size="13">01</text><text x="102" y="154" fill="#fff" font-size="17" font-weight="700">SOFTWARE</text><text x="350" y="154" fill="#999" font-size="13">Rails · Rust · Python · TypeScript · C / C# / C++</text><rect x="102" y="170" width="780" height="18" fill="#222"/><rect x="102" y="170" width="710" height="18" fill="#fff"/><rect x="828" y="170" width="54" height="18" fill="#777"/>
+    <text x="54" y="224" fill="#fff" font-size="13">02</text><text x="102" y="224" fill="#fff" font-size="17" font-weight="700">AI SYSTEMS</text><text x="350" y="224" fill="#999" font-size="13">Mastra · LangGraph · Agno · LangChain · RAG</text><rect x="102" y="240" width="780" height="18" fill="#222"/><rect x="102" y="240" width="650" height="18" fill="#fff"/><rect x="768" y="240" width="114" height="18" fill="#777"/>
+    <text x="54" y="294" fill="#fff" font-size="13">03</text><text x="102" y="294" fill="#fff" font-size="17" font-weight="700">SECURITY</text><text x="350" y="294" fill="#999" font-size="13">Red Team · OSINT · CTF · Pentesting · tradecraft</text><rect x="102" y="310" width="780" height="18" fill="#222"/><rect x="102" y="310" width="590" height="18" fill="#fff"/><rect x="708" y="310" width="174" height="18" fill="#777"/>
+    <text x="54" y="364" fill="#fff" font-size="13">04</text><text x="102" y="364" fill="#fff" font-size="17" font-weight="700">INFRA</text><text x="350" y="364" fill="#999" font-size="13">Docker · CI · Git · VPS · Cloudflare · Linux</text><rect x="102" y="380" width="780" height="18" fill="#222"/><rect x="102" y="380" width="620" height="18" fill="#fff"/><rect x="738" y="380" width="144" height="18" fill="#777"/>
+    <text x="54" y="434" fill="#fff" font-size="13">05</text><text x="102" y="434" fill="#fff" font-size="17" font-weight="700">CREATIVE</text><text x="350" y="434" fill="#999" font-size="13">Figma · 3D · Motion · SFX · Branding · Music</text><rect x="102" y="450" width="780" height="18" fill="#222"/><rect x="102" y="450" width="570" height="18" fill="#fff"/><rect x="688" y="450" width="194" height="18" fill="#777"/>
   </g>
-  <g>
-    <path d="M375 308L435 337L375 366L315 337L375 308Z" fill="#312E81" stroke="#C4B5FD" stroke-opacity="0.6"/><path d="M315 337V391L375 420V366L315 337Z" fill="#6D28D9" fill-opacity="0.55"/><path d="M375 366L435 337V391L375 420V366Z" fill="#7C3AED" fill-opacity="0.8"/><text x="375" y="345" text-anchor="middle" fill="#F5F3FF" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="800">AI AGENTS</text><text x="375" y="362" text-anchor="middle" fill="#DDD6FE" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10">Mastra · LangGraph · Agno · LangChain</text>
-  </g>
-  <g>
-    <path d="M825 308L885 337L825 366L765 337L825 308Z" fill="#7C2D12" stroke="#FDBA74" stroke-opacity="0.65"/><path d="M765 337V391L825 420V366L765 337Z" fill="#C2410C" fill-opacity="0.6"/><path d="M825 366L885 337V391L825 420V366Z" fill="#EA580C" fill-opacity="0.82"/><text x="825" y="345" text-anchor="middle" fill="#FFF7ED" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="800">SECURITY</text><text x="825" y="362" text-anchor="middle" fill="#FED7AA" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10">Red Team · OSINT · CTF · Pentest</text>
-  </g>
-  <g>
-    <path d="M515 410L570 436L515 462L460 436L515 410Z" fill="#064E3B" stroke="#86EFAC" stroke-opacity="0.65"/><path d="M460 436V470L515 496V462L460 436Z" fill="#047857" fill-opacity="0.65"/><path d="M515 462L570 436V470L515 496V462Z" fill="#059669" fill-opacity="0.82"/><text x="515" y="443" text-anchor="middle" fill="#ECFDF5" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12" font-weight="800">INFRA</text><text x="515" y="457" text-anchor="middle" fill="#BBF7D0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9">Docker · CI · Git · VPS · Cloudflare</text>
-  </g>
-  <g>
-    <path d="M685 410L740 436L685 462L630 436L685 410Z" fill="#831843" stroke="#F9A8D4" stroke-opacity="0.65"/><path d="M630 436V470L685 496V462L630 436Z" fill="#BE185D" fill-opacity="0.62"/><path d="M685 462L740 436V470L685 496V462Z" fill="#DB2777" fill-opacity="0.82"/><text x="685" y="443" text-anchor="middle" fill="#FDF2F8" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12" font-weight="800">CREATIVE</text><text x="685" y="457" text-anchor="middle" fill="#FBCFE8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9">Figma · Blender · AE · SFX · FL Studio</text>
-  </g>
+  <text x="1060" y="454" fill="#666" font-family="Courier New,monospace" font-size="12">0 / 100 / FOCUS</text>
 </svg>

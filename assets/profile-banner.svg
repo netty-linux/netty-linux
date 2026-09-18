@@ -1,31 +1,40 @@
 <svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">NETTY | Software, AI, Security and Design</title>
-  <desc id="desc">Banner escuro com estética Arch Linux moderna, terminal, grid isométrico e camadas de engenharia.</desc>
+  <title id="title">NETTO | Portfólio</title>
+  <desc id="desc">Banner em preto e branco com estética photocopy para o perfil de Netto.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#06080D"/><stop offset="0.55" stop-color="#0B1220"/><stop offset="1" stop-color="#19102B"/></linearGradient>
-    <linearGradient id="cyan" x1="90" y1="150" x2="750" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-    <linearGradient id="violet" x1="1050" y1="80" x2="1500" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#B9D7FF" stroke-opacity="0.06"/></pattern>
-    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="52"/></filter>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#000" flood-opacity="0.45"/></filter>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#fff" fill-opacity="0.22"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#fff" stroke-opacity="0.05"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="0.7"/></filter>
   </defs>
-  <rect width="1600" height="520" rx="26" fill="url(#bg)"/><rect width="1600" height="520" rx="26" fill="url(#grid)"/>
-  <circle cx="1450" cy="80" r="190" fill="#7C3AED" fill-opacity="0.2" filter="url(#blur)"/><circle cx="650" cy="520" r="190" fill="#0891B2" fill-opacity="0.15" filter="url(#blur)"/><circle cx="150" cy="70" r="110" fill="#F97316" fill-opacity="0.1" filter="url(#blur)"/>
+  <rect width="1600" height="520" rx="4" fill="#050505"/>
+  <rect width="1600" height="520" rx="4" fill="url(#scan)"/>
+  <circle cx="1320" cy="260" r="245" fill="url(#dots)"/>
+  <circle cx="1320" cy="260" r="170" fill="#111" stroke="#fff" stroke-opacity="0.14"/>
+  <path d="M1090 410L1510 110" stroke="#fff" stroke-opacity="0.16" stroke-width="2"/>
+  <path d="M1115 440L1535 140" stroke="#fff" stroke-opacity="0.08" stroke-width="1"/>
+  <path d="M1080 105H1518M1080 115H1518" stroke="#fff" stroke-opacity="0.12"/>
 
-  <g opacity="0.9"><rect x="76" y="62" width="42" height="42" rx="12" fill="#E2E8F0"/><path d="M87 84L97 73L107 84L97 95L87 84Z" fill="#0F172A"/><path d="M97 73V95" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/><text x="140" y="90" fill="#CBD5E1" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" letter-spacing="4">NETTY / PROFILE README</text></g>
-  <text x="76" y="174" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" letter-spacing="3">[ root@netty ~ ]$ whoami</text>
-  <text x="76" y="255" fill="#F8FAFC" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="68" font-weight="900" letter-spacing="-2">BUILD. TRAIN.</text>
-  <text x="76" y="326" fill="url(#cyan)" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="68" font-weight="900" letter-spacing="-2">SHIP IMPACT.</text>
-  <text x="78" y="376" fill="#CBD5E1" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18">Software engineering, AI agents, red team craft, systems and sound.</text>
-  <text x="78" y="416" fill="#64748B" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="600" letter-spacing="2">SAAS · APPS · BOTS · RAGS · INFRA · DESIGN · MUSIC</text>
-
-  <g filter="url(#shadow)"><rect x="1015" y="72" width="500" height="360" rx="20" fill="#080D18" fill-opacity="0.94" stroke="#FFFFFF" stroke-opacity="0.13"/><rect x="1015" y="72" width="500" height="52" rx="20" fill="#FFFFFF" fill-opacity="0.045"/><circle cx="1050" cy="98" r="6" fill="#FB7185"/><circle cx="1072" cy="98" r="6" fill="#FBBF24"/><circle cx="1094" cy="98" r="6" fill="#34D399"/><text x="1130" y="103" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">netty@archlinux:~</text>
-    <text x="1052" y="160" fill="#38BDF8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">$</text><text x="1075" y="160" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">stack --load</text>
-    <text x="1052" y="202" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">01</text><text x="1090" y="202" fill="#A78BFA" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">AI</text><text x="1160" y="202" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">agents · RAG · evals</text>
-    <text x="1052" y="238" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">02</text><text x="1090" y="238" fill="#FB923C" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">SEC</text><text x="1160" y="238" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">red team · OSINT · CTF</text>
-    <text x="1052" y="274" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">03</text><text x="1090" y="274" fill="#34D399" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">OPS</text><text x="1160" y="274" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">Docker · CI · VPS</text>
-    <text x="1052" y="310" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">04</text><text x="1090" y="310" fill="#F472B6" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">ART</text><text x="1160" y="310" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">motion · 3D · sound</text>
-    <path d="M1090 352L1130 330L1170 352L1210 330L1250 352L1290 330L1330 352L1370 330L1410 352" stroke="url(#violet)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="1410" cy="352" r="5" fill="#F472B6"/><text x="1090" y="390" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">status: operational / curiosity: high</text>
+  <g transform="translate(76 66)">
+    <rect width="42" height="42" fill="#fff"/>
+    <path d="M10 21L21 9L32 21L21 33L10 21Z" fill="#050505"/>
+    <path d="M21 9V33" stroke="#777" stroke-width="2"/>
+    <text x="66" y="27" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="4">NETTO / PROFILE</text>
   </g>
-  <path d="M76 466H1524" stroke="#FFFFFF" stroke-opacity="0.14"/><text x="76" y="495" fill="#64748B" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="13" font-weight="600" letter-spacing="1.5">ARCH LINUX MINDSET · OPEN SYSTEMS · DEEP WORK</text><text x="1524" y="495" fill="#64748B" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="13" font-weight="600" text-anchor="end">GOIÁS / BRASIL</text>
+
+  <text x="78" y="170" fill="#999" font-family="Courier New,monospace" font-size="16" letter-spacing="3">DEV · DESIGN · BOTS · AI · HACKING</text>
+  <text x="74" y="270" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" letter-spacing="-4">EU CONSTRUO</text>
+  <text x="74" y="350" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" letter-spacing="-4">COISAS QUE VIVEM</text>
+  <text x="78" y="402" fill="#999" font-family="Arial,Helvetica,sans-serif" font-size="18">software, segurança, sistemas e som.</text>
+
+  <g transform="translate(1130 204) rotate(-12)">
+    <rect width="320" height="136" fill="#f5f5f5"/>
+    <text x="20" y="35" fill="#080808" font-family="Courier New,monospace" font-size="13" font-weight="700">ARCHIVE / 2026 / 001</text>
+    <text x="20" y="83" fill="#080808" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="900">MAKE IT REAL.</text>
+    <text x="20" y="110" fill="#555" font-family="Courier New,monospace" font-size="12">BUILD / SHIP / REPEAT</text>
+    <path d="M20 119H292" stroke="#111" stroke-width="2"/>
+  </g>
+
+  <path d="M76 458H1524" stroke="#fff" stroke-opacity="0.38"/>
+  <text x="76" y="490" fill="#888" font-family="Courier New,monospace" font-size="13" letter-spacing="1.5">SAAS · APPS · RAGS · INFRA · RED TEAM · BRANDING · SFX</text>
+  <text x="1524" y="490" fill="#888" font-family="Courier New,monospace" font-size="13" text-anchor="end">GOIÁS / BRASIL</text>
 </svg>
