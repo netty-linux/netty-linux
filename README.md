@@ -57,7 +57,7 @@ Meu foco é transformar uma ideia em algo que possa ser usado, testado e publica
 <img src="https://img.shields.io/badge/TYPESCRIPT-111111?style=flat-square&logo=typescript&logoColor=white&labelColor=000000" alt="TypeScript" />
 <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white&labelColor=000000" alt="C" />
 <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white&labelColor=000000" alt="C sharp" />
-<img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cpp&logoColor=white&labelColor=000000" alt="C plus plus" />
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white&labelColor=000000" alt="C plus plus" />
 
 ### AGENTS E FRAMEWORKS
 
