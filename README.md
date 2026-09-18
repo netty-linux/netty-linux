@@ -61,7 +61,14 @@ Meu foco é transformar uma ideia em algo que possa ser usado, testado e publica
 
 ### AGENTS E FRAMEWORKS
 
-`Mastra` `LangGraph` `Agno` `LangChain` `RAG` `MCP` `pipelines` `evals`
+<img src="https://img.shields.io/badge/MASTRA-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="Mastra" />
+<img src="https://img.shields.io/badge/LANGGRAPH-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="LangGraph" />
+<img src="https://img.shields.io/badge/AGNO-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="Agno" />
+<img src="https://img.shields.io/badge/LANGCHAIN-111111?style=flat-square&logo=langchain&logoColor=white&labelColor=000000" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="RAG" />
+<img src="https://img.shields.io/badge/MCP-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="MCP" />
+<img src="https://img.shields.io/badge/PIPELINES-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="Pipelines" />
+<img src="https://img.shields.io/badge/EVALS-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="Evaluations" />
 
 ### INFRA E DELIVERY
 
@@ -110,13 +117,27 @@ Cursando Engenharia de Redes Neurais na Faculdade FAMA Goiás.
 
 ## TOOLS
 
-`Claude Code` `OpenCode` `Ollama` `Mastra` `Notion` `Arch Linux` `Affine` `Antigravity` `Codex` `Grok Build` `Higgsfield` `Grok Bot` `Hermes Agent` `OpenClaw` `FL Studio` `Cursor` `Kali Linux`
+<img src="https://img.shields.io/badge/CLAUDE%20CODE-111111?style=flat-square&logo=anthropic&logoColor=white&labelColor=000000" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OPENCODE-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="OpenCode" />
+<img src="https://img.shields.io/badge/OLLAMA-111111?style=flat-square&logo=ollama&logoColor=white&labelColor=000000" alt="Ollama" />
+<img src="https://img.shields.io/badge/NOTION-111111?style=flat-square&logo=notion&logoColor=white&labelColor=000000" alt="Notion" />
+<img src="https://img.shields.io/badge/AFFINE-111111?style=flat-square&logo=affine&logoColor=white&labelColor=000000" alt="Affine" />
+<img src="https://img.shields.io/badge/ANTIGRAVITY-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="Antigravity" />
+<img src="https://img.shields.io/badge/CODEX-111111?style=flat-square&logo=openai&logoColor=white&labelColor=000000" alt="Codex" />
+<img src="https://img.shields.io/badge/GROK%20BUILD-111111?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="Grok Build" />
+<img src="https://img.shields.io/badge/HIGGSFIELD-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="Higgsfield" />
+<img src="https://img.shields.io/badge/GROK%20BOT-111111?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="Grok Bot" />
+<img src="https://img.shields.io/badge/HERMES%20AGENT-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="Hermes Agent" />
+<img src="https://img.shields.io/badge/OPENCLAW-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="OpenClaw" />
+<img src="https://img.shields.io/badge/FL%20STUDIO-111111?style=flat-square&labelColor=000000&color=FFFFFF" alt="FL Studio" />
+<img src="https://img.shields.io/badge/CURSOR-111111?style=flat-square&logo=cursor&logoColor=white&labelColor=000000" alt="Cursor" />
+<img src="https://img.shields.io/badge/ARCH%20LINUX-111111?style=flat-square&logo=archlinux&logoColor=white&labelColor=000000" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/KALI%20LINUX-111111?style=flat-square&logo=kalilinux&logoColor=white&labelColor=000000" alt="Kali Linux" />
 
 ## ACTIVITY
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=netty-linux&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub activity stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netty-linux&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&langs_count=8" alt="Top languages" />
+  <img src="assets/activity.svg" alt="Status de atividade do perfil" width="100%" />
 </div>
 
 <div align="center">
